@@ -1,0 +1,4 @@
+CPU below limit:   kubectl-pod-1, 
+CPU above limit:   kubectl-pod-2, kubectl-pod-3, kubectl-pod-4, kubectl-pod-5, 
+MEM belove limit:   kubectl-pod-1, kubectl-pod-2, 
+MEM above limit:   kubectl-pod-3, kubectl-pod-4, kubectl-pod-5, 
